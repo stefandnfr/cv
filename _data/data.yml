@@ -57,27 +57,6 @@ education:
             learning using AI
             -Final grade: 1.3 (very good)
             -Bachelor fellow, Studienstiftung des deutschen Volkes
-experiences:
-    title: Education
-    info:
-      - role: Summer Job1
-        time: 05/2013, 08/2014
-        company: ISA Industrieelektronik, Weiden | Germany
-        details: |
-            - did soldering jobs 
-            - cable management of new buildings.
-      - role: Au Pair
-        time: 07/2015 – 07/2017
-        company: Westerly, RI | USA
-        details: |
-            Provided full-time care for two children aged 8 and 12.
-      - role: Teaching Assistant
-        time: 04/2018 - 09/2020
-        company: Ostbayerische Technische Hochschule, Regensburg | Germany
-        details: |
-            Taught Math I exercises.
-
-
             
 experiences:
     title: Experiences
@@ -98,99 +77,35 @@ experiences:
         company: Ostbayerische Technische Hochschule, Regensburg | Germany
         details: |
             Taught Math I exercises.
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a non exhaustive list of my projects.
     assignments:
       - title: day4words
         link: "https://day4words.web.app/"
         tagline: " a flash card web app that displays 4 words a day."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C & C++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C# & Python
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Assembly, VHDL, PHP
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Windows, Linux
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Photoshop
+        level: 90%
 
 footer: >
