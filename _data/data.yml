@@ -35,7 +35,15 @@ sidebar:
           link:
 
         - item: Personal Development
+          link:    
+             
+        - item: Sports
           link:
+
+        - item: Languages
+          link:       
+
+
 
 career-profile:
     title: Career Profile
@@ -65,18 +73,34 @@ experiences:
         time: 05/2013, 08/2014
         company: ISA Industrieelektronik, Weiden | Germany
         details: |
-            - did soldering jobs 
-            - cable management of new buildings.
+            - Did soldering jobs.
+            - Laid cable management of new building.
       - role: Au Pair
         time: 07/2015 – 07/2017
         company: Westerly, RI | USA
         details: |
-            Provided full-time care for two children aged 8 and 12.
+          - Provided full-time care for two children aged 8 and 12.
+      - role: Internship
+        time: 08/2018
+        company: ISA Industrieelektronik, Weiden | Germany
+        details: |
+            - Microsoldered elements for production circuit boards.
       - role: Teaching Assistant
         time: 04/2018 - 09/2020
         company: Ostbayerische Technische Hochschule, Regensburg | Germany
         details: |
-            Taught Math I exercises.
+            - Gave weekly tutorial reviewing contents of Mathematics I lecture.
+            - Created exercises with explanations and solutions.
+      - role: Working Student / Intern
+        time: 04/2019 - 02/2020
+        company: Vuframe GmbH, Regensburg | Germany
+        details: |
+            - Developed automated 3D conversion pipeline.
+      - role: Web developer
+        time: 04/2021 - 09/2021
+        company: Walea, Regensburg | Germany
+        details: |
+            - Developed backend for database. 
 projects:
     title: Projects
     intro: >
@@ -84,7 +108,10 @@ projects:
     assignments:
       - title: day4words
         link: "https://day4words.web.app/"
-        tagline: " a flash card web app that displays 4 words a day."
+        tagline: "A flash card web app that displays 4 words a day."
+      - title: EZ-PY-32
+        link: "https://github.com/stefandnfr/EZ-PY_32"
+        tagline: "A micropython framework for esp32 microcontroller."
 
 skills:
     title: Skills &amp; Proficiency
