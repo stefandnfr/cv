@@ -1,7 +1,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Stefan Dendorfer
@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Stefan is a developer from Germany.
+        Stefan is a computer science student specialized in Artificial Intelligence from Germany. He has a strong background in Embedded Systems and work experience working in Software Engineering. 
 education:
     title: Education
     info:
@@ -69,38 +69,36 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Summer Job
-        time: 05/2013, 08/2014
+      - role: Summer Jobs and Internships
+        time: 05/2013, 08/2014, 08/2018
         company: ISA Industrieelektronik, Weiden | Germany
         details: |
-            - Did soldering jobs.
-            - Laid cable management of new building.
+            - switch cabinet construction.
+            - electrical wiring installation.
+            - soldering jobs assembling custom pcb boards.           
       - role: Au Pair
         time: 07/2015 – 07/2017
         company: Westerly, RI | USA
         details: |
           - Provided full-time care for two children aged 8 and 12.
-      - role: Internship
-        time: 08/2018
-        company: ISA Industrieelektronik, Weiden | Germany
-        details: |
-            - Microsoldered elements for production circuit boards.
-      - role: Teaching Assistant
+      - role: Teaching Assistant, Private Tutor
         time: 04/2018 - 09/2020
         company: Ostbayerische Technische Hochschule, Regensburg | Germany
         details: |
             - Gave weekly tutorial reviewing contents of Mathematics I lecture.
             - Created exercises with explanations and solutions.
+            - Private Tutor lessons in Math, English
       - role: Working Student / Intern
         time: 04/2019 - 02/2020
         company: Vuframe GmbH, Regensburg | Germany
         details: |
-            - Developed automated 3D conversion pipeline.
+            - Created an internal monitoring tool.
+            - Developed automated 3D conversion pipeline supporting obj, gltf, c4d file formats. 
       - role: Web developer
         time: 04/2021 - 09/2021
         company: Walea, Regensburg | Germany
         details: |
-            - Developed backend for database. 
+            - Developed SQL and PHP backend wordpress plugin for database. 
 projects:
     title: Projects
     intro: >
