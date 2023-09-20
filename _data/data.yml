@@ -28,9 +28,6 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Photography
-          link:
-
         - item: Microcontroller
           link:
 
@@ -131,6 +128,7 @@ skills:
     toolset:
       - name: C & C++
         level: 98%
+        tagline: "A flutter-based web app implementation of a card game."
 
       - name: C# & Python
         level: 98%
