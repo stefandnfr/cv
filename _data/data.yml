@@ -116,6 +116,14 @@ projects:
       - title: TGTG tracker
         link: "https://github.com/stefandnfr/mpy_toogoodtogo"
         tagline: "An esp32 service to track and notify TooGoodToGo offers."
+      - title: Kingscup
+        link: "https://kingscup-set.github.io/#/"
+        tagline: "A flutter-based web app implementation of a card game."
+      - title: Polarized Computer Vision
+        tagline: "University project 'Capturing Shape and Material in the Wild Using Polarization and Subtractive Lighting'"
+      - title: EvoNAS
+        tagline: "End-to-end pipeline of Evolutionary Neural Architecture Search on microcontrollers"
+           
 skills:
     title: Skills &amp; Proficiency
 
